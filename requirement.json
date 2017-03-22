@@ -1,1 +1,12 @@
-{"comment": "my module name is module_books", "requirement": "openedoo_core", "version": "0.1.0", "pip_library": [], "name": "module_books", "url": null, "url_endpoint": "/module_books", "type": "end_point"}
+{
+    "name":"my module name is module_books",
+    "version":"0.1.1",
+    "requirement":"openedoo_core",
+    "pip_library":[],
+    "description":"testing modul openedoo",
+    "type":"git",
+    "url_endpoint":"/module_books",
+    "url_git":"https://github.com/sangmadesu/module_books",
+    "author":"sangmadesu",
+    "database":"database.py"
+}
