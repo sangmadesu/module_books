@@ -1,5 +1,5 @@
 {
-    "name":"my module name is module_books",
+    "name":"module_books",
     "version":"0.1.1",
     "requirement":"openedoo_core",
     "pip_library":[],
